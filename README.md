@@ -29,6 +29,8 @@ npm i
 
 In `src/index.ts`:
 
+add your own MONGODB URl  
+
 ```js
 const MONGO_URL = ''; // MONGOURL
 ```
