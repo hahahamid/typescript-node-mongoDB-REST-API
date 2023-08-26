@@ -51,25 +51,36 @@ Running commands with npm `npm run [command]`
 
 ## Screenshots
 
+
 `Register` 
+
 
 ![Alt text](screenshots/register.png)
 
+
 `Login` 
+
 
 ![Alt text](screenshots/login.png)
 
+
 `Get All Users` 
+
 
 ![Alt text](screenshots/getusers.png)
 
+
 `Delete User` 
+
 
 ![Alt text](screenshots/delete.png)
 
+
 `Update User` 
 
+
 ![Alt text](screenshots/update.png)
+
 
 
 
